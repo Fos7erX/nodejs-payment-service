@@ -1,0 +1,105 @@
+{
+  "batchId": "batch-20250821-001",
+  "payments": [
+    {
+      "description": "Web development services",
+      "due_date": "2025-08-25",
+      "amount_cents": 500000,
+      "currency": "USD",
+      "payer": {
+        "name": "Emma Johnson",
+        "email": "emma.johnson@example.com"
+      }
+    },
+    {
+      "description": "Monthly hosting fee",
+      "due_date": "2025-08-30",
+      "amount_cents": 2500,
+      "currency": "USD",
+      "payer": {
+        "name": "Liam Martinez",
+        "email": "liam.martinez@example.com"
+      }
+    },
+    {
+      "description": "Consulting session",
+      "due_date": "2025-08-22",
+      "amount_cents": 10000,
+      "currency": "USD",
+      "payer": {
+        "name": "Olivia Brown",
+        "email": "olivia.brown@example.com"
+      }
+    },
+    {
+      "description": "Annual membership fee",
+      "due_date": "2025-09-01",
+      "amount_cents": 120000,
+      "currency": "ARS",
+      "payer": {
+        "name": "Santiago Torres",
+        "email": "santiago.torres@example.ar"
+      }
+    },
+    {
+      "description": "Domain renewal",
+      "due_date": "2025-08-23",
+      "amount_cents": 1500,
+      "currency": "USD",
+      "payer": {
+        "name": "Ava Garcia",
+        "email": "ava.garcia@example.com"
+      }
+    },
+    {
+      "description": "Design services",
+      "due_date": "2025-08-24",
+      "amount_cents": 30000,
+      "currency": "ARS",
+      "payer": {
+        "name": "Mateo Fernández",
+        "email": "mateo.fernandez@example.ar"
+      }
+    },
+    {
+      "description": "Legal consulting retainer",
+      "due_date": "2025-08-27",
+      "amount_cents": 80000,
+      "currency": "USD",
+      "payer": {
+        "name": "Sophia Wilson",
+        "email": "sophia.wilson@example.com"
+      }
+    },
+    {
+      "description": "Software license fee",
+      "due_date": "2025-09-05",
+      "amount_cents": 4999,
+      "currency": "USD",
+      "payer": {
+        "name": "Lucas Díaz",
+        "email": "lucas.diaz@example.ar"
+      }
+    },
+    {
+      "description": "Freelance translation",
+      "due_date": "2025-08-26",
+      "amount_cents": 18000,
+      "currency": "ARS",
+      "payer": {
+        "name": "Mia Rojas",
+        "email": "mia.rojas@example.ar"
+      }
+    },
+    {
+      "description": "Mobile app QA testing",
+      "due_date": "2025-08-28",
+      "amount_cents": 22000,
+      "currency": "USD",
+      "payer": {
+        "name": "Noah Miller",
+        "email": "noah.miller@example.com"
+      }
+    }
+  ]
+}
