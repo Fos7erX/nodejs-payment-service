@@ -55,7 +55,7 @@ Redis was installed along with bullmq to handle batch payments at "v1/payments/b
 
 ## Test bullmq worker for batch payments
 
-You should enter the command below to follow the batch process for the endpoiint "v1/payments/batch". There's an example body on file "src/batch-payment-example.json":
+You should enter the command below to follow the batch process for the endpoint "v1/payments/batch". There's an example body on file "src/batch-payment-example.json":
 
 
 
@@ -63,7 +63,7 @@ You should enter the command below to follow the batch process for the endpoiint
 
 $ npm run worker
 
-``
+```
 
 ## License
 
